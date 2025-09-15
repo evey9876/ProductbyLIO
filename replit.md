@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a password-protected event website for the LIO Product Meeting Q2 FY25 company offsite. The application provides secure access to event information including agenda, travel details, and attendee forms through a clean, corporate-grade interface. The website follows a premium event platform design approach with password authentication as the primary security mechanism.
+This is a password-protected event website for the LIO Product Meeting Q2 FY26 company offsite. The application provides secure access to event information including agenda, travel details, and attendee forms through a clean, corporate-grade interface. The website follows a premium event platform design approach with password authentication as the primary security mechanism.
 
 ## User Preferences
 
